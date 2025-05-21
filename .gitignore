@@ -1,0 +1,10 @@
+# Ignore dependencies
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Logs and environment files
+*.log
+.env
